@@ -1,3 +1,4 @@
+#!/bin/sh
 # For simplicity, version are hardcoded for build tools, NDK, and SDK.
 # In addition, the architecture is hardcoded to AARCH64.
 # Feel free to change these to your liking!
